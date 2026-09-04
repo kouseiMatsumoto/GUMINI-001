@@ -1,0 +1,8 @@
+{
+  "name": "WebR Studio - R in Browser",
+  "description": "ブラウザ上でWebAssembly版R言語 (WebR) を実行できる統合データ分析・可視化プレイグラウンド",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
